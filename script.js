@@ -46,3 +46,7 @@ function getHumanChoice(){
     }
  }
  playRound(getHumanChoice(), getComputerChoice());
+ playRound(getHumanChoice(), getComputerChoice());
+ playRound(getHumanChoice(), getComputerChoice());
+ playRound(getHumanChoice(), getComputerChoice());
+ playRound(getHumanChoice(), getComputerChoice());
